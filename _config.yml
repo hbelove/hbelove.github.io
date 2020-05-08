@@ -113,4 +113,4 @@ service-worker: true
 #     }
 # ]
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
